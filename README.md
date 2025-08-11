@@ -35,5 +35,6 @@ Sports & Fitness: Track laps, sets, or workout durations.
 Productivity: Monitor work sessions and break intervals.
 
 Education: Time quizzes, experiments, or presentations.
-<img width="1024" height="1536" alt="ChatGPT Image Aug 11, 2025, 07_36_25 PM" src="https://github.com/user-attachments/assets/13bb04af-dde8-450b-81cd-058c090f1216" />
+<img width="1024" height="1536" alt="WD_2" src="https://github.com/user-attachments/assets/e5727465-f9b5-4a49-b876-f42dbe8ef953" />
+
 
